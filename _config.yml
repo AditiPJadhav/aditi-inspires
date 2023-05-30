@@ -295,10 +295,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _post
   - scope:
       path: ""
-      type: posts
+      type: post
     values:
       layout: single
       author_profile: true
