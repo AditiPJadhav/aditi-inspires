@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "GS."
 last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
@@ -27,4 +26,3 @@ Another talent that sets me apart is my puchritudinous singing voice. I possess 
 I have an adventurous spirit and a love for exploring new places. I eagerly embark on journeys, whether it's discovering the hidden gems of my hometown or venturing to distant lands. By immersing myself in different cultures and experiencing diverse landscapes, I broaden my horizons and create lifelong memories.
 
 > With my passion for reading, writing, dancing, singing, and travel, I embodie an incredible zest for life. My boundless energy, creativity, and curiosity make me truly remarkable individual. My favorite thing to do will always be learning new thigns, whether it is programming, helping my community, learning more about the history and geography of this earth, learing new activites like skiing, or even just talking to people, acknowledging their teachings.
-
