@@ -203,6 +203,9 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-sass-converter
+  - jekyll-archives
+  - jekyll-watch
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -211,7 +214,9 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+  - jekyll-sass-converter
+  - jekyll-archives
+  - jekyll-watch
 
 # Archives
 #  Type
