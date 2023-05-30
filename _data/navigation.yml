@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /_pages/about/
+    url: /about/
   # - title: "About"
   #   url: https://your-repo.github.io/your-page/about/
   # - title: "Sample Posts"
