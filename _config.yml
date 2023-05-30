@@ -278,19 +278,19 @@ compress_html:
 
 
 # Collections
-collections:
-  travel:
-    output: true
-    permalink: /:collection/:path/
-  writing:
-    output: true
-    permalink: /:collection/:path/
-  dance:
-    output: true
-    permalink: /:collection/:path/
-  readaloud:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+ # travel:
+  #  output: true
+   # permalink: /:collection/:path/
+  #writing:
+   # output: true
+   # permalink: /:collection/:path/
+  #dance:
+  #  output: true
+  #  permalink: /:collection/:path/
+ # readaloud:
+  # output: true
+   # permalink: /:collection/:path/
 
 
 # Defaults
