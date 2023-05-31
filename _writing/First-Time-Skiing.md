@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "First Time Skiing"
+toc: true
 categories:
   - Edge Case
 tags:
