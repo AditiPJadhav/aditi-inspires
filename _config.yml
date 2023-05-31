@@ -297,7 +297,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -314,7 +314,7 @@ defaults:
       author_profile: true
   # _dance
   - scope:
-      path: ""
+      path: "_dance"
       type: dance
     values:
       layout: single
@@ -322,7 +322,7 @@ defaults:
       share: true
   # _writing
   - scope:
-      path: ""
+      path: "_writing"
       type: writing
     values:
       layout: single
@@ -330,7 +330,7 @@ defaults:
       share: true
   # _readaloud
   - scope:
-      path: ""
+      path: "_realoud"
       type: readaloud
     values:
       layout: single
