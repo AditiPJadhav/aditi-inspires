@@ -316,7 +316,7 @@ defaults:
   #    share: true
  # _docs
   - scope:
-      path: ""
+      path: "_docs"
       type: docs
     values:
       layout: single
@@ -324,8 +324,6 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      sidebar:
-        nav: "docs"
  # _pages
   - scope:
       path: "_pages"
