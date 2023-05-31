@@ -2,6 +2,16 @@
 layout: splash
 title: "First Time Skiing"
 toc: true
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
 categories:
   - Edge Case
 tags:
@@ -20,9 +30,7 @@ Today was the day I was going to ski for the first time in my life. Just as I wa
 
 As I got on the bus with my Girl Scout troop, I was shivering cold even in a jacket and snowsuit. I sat with my friend Dia, and across from Aubrey and Ava. Dia had obsidian colored hair, as dark as a black jaguar lurking in the shadows. She also had a persian blue jacket with red ladybugs dotted all over it and boots the color of a ringed seal. On the way there I saw the bare trees as quiet as they could be; and warm, cozy cottage-looking homes. After about a few minutes I questioned Dia, “Have you ever skied before?” She turned around and excitedly answered, “I haven’t, but I can’t wait to actually get to it.” 
 
-“Same, but I am a bit nervous too,” I was actually immensely nervous, not just that, but extremely nervous.
-
-Then we both looked back out the window because the views were very picturesque, then finally we saw a little ski shop in sight. We all got off the bus, the sun was glimmering more scintillating by the second and I was overflowing with warmth. 
+“Same, but I am a bit nervous too,” I was actually immensely nervous, not just that, but extremely nervous. ![image](https://github.com/AditiPJadhav/aditi-inspires/assets/134798421/bec8e998-242b-495d-acdd-923afbbe2dbe) Then we both looked back out the window because the views were very picturesque, then finally we saw a little ski shop in sight. We all got off the bus, the sun was glimmering more scintillating by the second and I was overflowing with warmth. 
 
 We walked for about 2 minutes, then reached the ski shop which had ancient, glass panes for windows almost as clear and transparent as the Weddell Sea. The shop was made of teak wood, and it had an emerald green roof. As the ground transformed from gravel to wood, the white light accented the color of the shop. The shop smelled like the calm cozy feeling after tasting the delectableness of ice cream.
 
@@ -44,7 +52,7 @@ Finally it was my turn and a young man at the counter signaled his hand as he as
 
 He asked, shouting over the crowd, to a woman about his age to go get size 3. She was wearing a flimsy pink and silver jacket that flew behind her as she went to the back of aisle 2 carefully on her royal purple roller skates. Then as she brought the shoes, her curly, brown, frazzled hair slipped onto her face. She suddenly came to a stop and as she did she flipped her head so that her busy hair would soar off her face.
 “Thanks!” I called, grabbing the skis cautiously out of her cold hands.
-
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 “You’re welcome,” she said humbly as she started assisting another customer.
 
 As I started to head towards the bench so I could try on the skis, my heart leaped out of my chest as I started gliding on the wet floor, and my right foot slid backward. I looked like an ice skater skating in an arabesque. I tried to stay balanced as I landed unsecurely, skis still in my hand. As I neared the bench Aubrey and Dia, who were about to try on their skis, grasped my arms tightly and ceased me to a stop; my heart slowly arrived back into my chest, like a bird fluttering to its nest.
