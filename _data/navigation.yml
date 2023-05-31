@@ -3,13 +3,13 @@ main:
   - title: "About"
     url: /about/
   - title: "Writings"
-    url: /writing/
+    url: /writing/First-Time-Skiing/
   - title: "Dance"
-    url: /dance/
+    url: /dance/test/
   - title: "Read Aloud"
-    url: /readaloud/
+    url: /readaloud/test/
   - title: "Singing"
-    url: /singing/
+    url: /singing/test/
 
 # sidebar navigation list sample
 sidebar-sample:
