@@ -2,6 +2,14 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Writings"
+    url: /writing/
+  - title: "Dance"
+    url: /dance/
+  - title: "Read Aloud"
+    url: /readaloud/
+  - title: "Singing"
+    url: /singing/
 
 # sidebar navigation list sample
 sidebar-sample:
