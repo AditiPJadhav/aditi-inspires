@@ -3,8 +3,8 @@ layout: splash
 title: "First Time Skiing"
 toc: true
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/unsplash-gallery-image-2.jpg
+  teaser: assets/images/unsplash-gallery-image-2-th.jpeg
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpeg
