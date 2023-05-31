@@ -105,7 +105,7 @@ When it was finally my turn I started shaking like I was wearing shorts and a ta
 
 I took a deep breath in, then remembered the time when I first tried zip lining. I was almost as afraid as I was then, but I knew if I never tried it, I would never know how fun it would be. So I got out of the stop position, and I slid sophisticatedly,thoughts zooming through my mind as fast as light, tension filling me like water being poured carefully into a glass. Then at the end of the hill I transitioned into the stop position. It felt stunning, I was amazed,  I had done it, I told myself! Proudly I staggered up the hill, still believing I hadn’t done it. 
 
-![91AD5EC8-BE96-41E1-B161-09752C01063C_1_102_o](https://github.com/AditiPJadhav/aditi-inspires/assets/134798421/a0a30222-1624-4277-ae3e-b3e5b657b4f5)
+![91AD5EC8-BE96-41E1-B161-09752C01063C](https://github.com/AditiPJadhav/aditi-inspires/assets/134798421/a0a30222-1624-4277-ae3e-b3e5b657b4f5.mov)
 
 When I got to the top Ava mentioned, “You did marvelous, did you like it?”
 
