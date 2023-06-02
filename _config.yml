@@ -213,7 +213,7 @@ collections:
   readaloud:
     output: true
     permalink: /:collection/:path/
-  singing:
+  technology:
     output: true
     permalink: /:collection/:path/
 
@@ -297,10 +297,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _singing
+  # _technology
   - scope:
       path: ""
-      type: singing
+      type: technology
     values:
       layout: single
       author_profile: true
