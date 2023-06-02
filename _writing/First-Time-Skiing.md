@@ -16,9 +16,9 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpeg
     alt: "placeholder image 3"
 categories:
-  - Edge Case
+  - writing
 tags:
-  - content
+  - sport
 ---
 
  I climbed the snowy hill with my boards in my hands. My legs quivered, shivered, and trembled. My heart was beating at top speed, it was like it was popping out of my chest. I was shaking in trepidation, abating on what would happen when I got on my skis, would I fall, slip, or even worse, break a bone.  
