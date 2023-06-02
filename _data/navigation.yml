@@ -10,6 +10,8 @@ main:
     url: /readaloud/
   - title: "Singing"
     url: /singing/
+  - title: "Travel"
+    url: /travel/
 
 # sidebar navigation list sample
 sidebar-sample:
