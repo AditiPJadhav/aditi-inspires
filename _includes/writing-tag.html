@@ -1,0 +1,5 @@
+{%- for writing in site.tags[include.taxonomy] -%}
+  {%- unless writing.hidden -%}
+    {% include archive-single.html %}
+  {%- endunless -%}
+{%- endfor -%}
