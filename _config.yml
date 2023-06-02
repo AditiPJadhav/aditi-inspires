@@ -213,6 +213,9 @@ collections:
   readaloud:
     output: true
     permalink: /:collection/:path/
+  singing:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
