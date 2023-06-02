@@ -1,5 +1,4 @@
 ---
-layout: splash
 title: "Spring"
 toc: true
 header:
