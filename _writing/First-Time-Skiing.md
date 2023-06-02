@@ -1,5 +1,4 @@
 ---
-layout: splash
 title: "First Time Skiing"
 toc: true
 header:
