@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Aditi Jadhav"
 description              : &description "An amazing website."
-url                      : https://aditipjadhav.github.io/
+url                      : https://aditipjadhav.github.io
 baseurl                  : "/aditi-inspires"
 repository               : "aditipjadhav/aditi-inspires/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
