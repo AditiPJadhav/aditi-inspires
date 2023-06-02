@@ -1,6 +1,8 @@
 ---
 layout: splash
 title: "Spring"
+redirect_from:
+  - /theme-setup/
 toc: true
 header:
   image: /assets/images/IMG_3792.jpeg
