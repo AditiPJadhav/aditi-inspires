@@ -234,6 +234,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -241,6 +245,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _docs
   - scope:
       path: ""
@@ -260,15 +268,21 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
       share: true
+      related: true
   # _readaloud
   - scope:
       path: ""
       type: readaloud
     values:
       layout: single
-      author_profile: false
+      author_profile: true
+      read_time: true
+      comments: true
       share: true
+      related: true
 
 # Sass/SCSS
 sass:
