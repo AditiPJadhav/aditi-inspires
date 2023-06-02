@@ -24,3 +24,9 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+{% if site.search == true %}
+      <div class="search-content">
+        {% include search/search_form.html %}
+      </div>
+    {% endif %}
