@@ -283,7 +283,29 @@ defaults:
       comments: true
       share: true
       related: true
-
+# _writing
+  - scope:
+      path: ""
+      type: writing
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _singing
+  - scope:
+      path: ""
+      type: singing
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
