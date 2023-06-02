@@ -1,7 +1,7 @@
 ---
 title: "Flappy Bird Game"
 categories:
-  - Technology
+  - singing
 tags:
   - Game
 ---
